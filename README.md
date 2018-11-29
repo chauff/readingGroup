@@ -14,7 +14,8 @@ Overview of IR/NLP papers covered in my team's reading group.
 - October 29: https://dl.acm.org/citation.cfm?id=3234959 (ICTIR 2018)
 - November 5: https://doi.org/10.1145/3234944.3234968 (ICTIR 2018)
 - November 12: https://arxiv.org/abs/1810.00278 (EMNLP 2018 best resource paper)
-- November 19: https://arxiv.org/pdf/1805.00188.pdf (SIGIR 2018)
-- November 26: https://storage.googleapis.com/pub-tools-public-publication-data/pdf/75e359c2883f4d287a8753d32e2c5e22bfbfb55f.pdf (ICLR 2018)
-- December 3: https://arxiv.org/pdf/1810.04805.pdf (BERT - Google's latest 'hip' NN)
-- December 10: http://nlp.cs.aueb.gr/pubs/emnlp2018.pdf (EMNLP 2018)
+- November 19: NO READING GROUP
+- November 26: https://arxiv.org/pdf/1805.00188.pdf (SIGIR 2018)
+- December 3: https://storage.googleapis.com/pub-tools-public-publication-data/pdf/75e359c2883f4d287a8753d32e2c5e22bfbfb55f.pdf (ICLR 2018)
+- December 10: https://arxiv.org/pdf/1810.04805.pdf (BERT - Google's latest 'hip' NN)
+- December 17: http://nlp.cs.aueb.gr/pubs/emnlp2018.pdf (EMNLP 2018)
