@@ -2,6 +2,22 @@
 
 Overview of IR/NLP papers covered in my team's reading group.
 
+## 2019
+- January 7: https://arxiv.org/abs/1707.07700
+- January 14: NO READING GROUP
+- January 21: https://arxiv.org/abs/1810.06683
+- January 28: https://arxiv.org/pdf/1808.10628.pdf
+- February 4: NO READING GROUP
+- February 11: http://aclweb.org/anthology/D18-1179
+- February 18: https://openreview.net/pdf?id=SJ1nzBeA-
+- February 25: https://dl.acm.org/citation.cfm?doid=3077136.3080786
+- March 4: https://arxiv.org/pdf/1811.00606.pdf
+- March 11: https://arxiv.org/abs/1706.03762
+- March 18: https://arxiv.org/abs/1901.02860
+- March 25: http://aclweb.org/anthology/K18-1030
+- April 1: https://arxiv.org/abs/1805.01070
+- April 8: https://arxiv.org/abs/1803.01271
+
 ## 2018
 - September 3: https://arxiv.org/pdf/1707.07328.pdf
 - September 10: https://arxiv.org/pdf/1805.03403 (best short paper at SIGIR 2018)
