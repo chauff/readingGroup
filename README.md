@@ -24,7 +24,7 @@ Overview of IR/NLP papers covered in my team's reading group. Typically, we read
 - May 13: NO READING GROUP
 - May 20: https://arxiv.org/pdf/1904.02668.pdf
 - May 27: https://www.aclweb.org/anthology/W18-5408
-- June 3: Shared [slides](https://t.co/jpDCyoERdU) about BERT
+- June 3: Shared [slides](https://t.co/jpDCyoERdU) on BERT
 
 ## 2018
 - September 3: https://arxiv.org/pdf/1707.07328.pdf
