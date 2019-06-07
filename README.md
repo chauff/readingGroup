@@ -1,6 +1,6 @@
 # Reading group
 
-Overview of IR/NLP papers covered in my team's reading group. Typically, we read and discuss one paper per timeslot (1 hour). All PhD and MSc thesis students are expected to attend.
+Overview of IR/NLP papers covered in my team's reading group. Typically, we read and discuss one paper per timeslot (1 hour). At times, we may switch up the format (e.g. a shared presentation about a single topic). All PhD and MSc thesis students are expected to attend.
 
 ## 2019
 - January 7: https://arxiv.org/abs/1707.07700
@@ -24,7 +24,7 @@ Overview of IR/NLP papers covered in my team's reading group. Typically, we read
 - May 13: NO READING GROUP
 - May 20: https://arxiv.org/pdf/1904.02668.pdf
 - May 27: https://www.aclweb.org/anthology/W18-5408
-- June 3: Shared presentation about BERT ([slide](https://t.co/jpDCyoERdU))
+- June 3: Shared [slides](https://t.co/jpDCyoERdU) about BERT
 
 ## 2018
 - September 3: https://arxiv.org/pdf/1707.07328.pdf
