@@ -25,6 +25,8 @@ Overview of IR/NLP papers covered in my team's reading group. Typically, we read
 - May 20: https://arxiv.org/pdf/1904.02668.pdf
 - May 27: https://www.aclweb.org/anthology/W18-5408
 - June 3: Shared [slides](https://t.co/jpDCyoERdU) on BERT
+- June 10: NO READING GROUP
+- June 17: Shared [slides](https://docs.google.com/presentation/d/e/2PACX-1vRvakgJPoy0TgxTHEHCLPEVF5a2zTzQo2vs6broT15T8cax1px1BoGu8k8z6KHhXiNO11fJEw7Y0FxD/pub?start=false&loop=false&delayms=3000) - 3 papers presented of NAACL 2019 per person
 
 ## 2018
 - September 3: https://arxiv.org/pdf/1707.07328.pdf
