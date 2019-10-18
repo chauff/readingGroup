@@ -27,6 +27,9 @@ Overview of IR/NLP papers covered in my team's reading group. Typically, we read
 - June 3: Shared [slides](https://t.co/jpDCyoERdU) on BERT
 - June 10: NO READING GROUP
 - June 17: Shared [slides](https://docs.google.com/presentation/d/e/2PACX-1vRvakgJPoy0TgxTHEHCLPEVF5a2zTzQo2vs6broT15T8cax1px1BoGu8k8z6KHhXiNO11fJEw7Y0FxD/pub?start=false&loop=false&delayms=3000) - 3 papers presented of NAACL 2019 per person
+- SUMMER BREAK
+- October 14: https://dl.acm.org/citation.cfm?id=3344220
+- October 21: discussion of machine learning management systems (mlflow, sacred, neptune, etc.)
 
 ## 2018
 - September 3: https://arxiv.org/pdf/1707.07328.pdf
