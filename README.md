@@ -2,6 +2,8 @@
 
 Overview of IR/NLP papers covered in my team's reading group. Typically, we read and discuss one paper per timeslot (1 hour). At times, we may switch up the format (e.g. a shared presentation about a single topic). All PhD and MSc thesis students are expected to attend.
 
+We typically stop those meetings over the summer and during the extended Christmas break.
+
 ## 2020
 - January 6: https://arxiv.org/abs/1910.10683
 - January 13: NO READING GROUP 
