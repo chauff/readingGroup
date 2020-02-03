@@ -2,6 +2,15 @@
 
 Overview of IR/NLP papers covered in my team's reading group. Typically, we read and discuss one paper per timeslot (1 hour). At times, we may switch up the format (e.g. a shared presentation about a single topic). All PhD and MSc thesis students are expected to attend.
 
+## 2020
+- January 6: https://arxiv.org/abs/1910.10683
+- January 13: NO READING GROUP 
+- January 20: https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/deghani-learning-2019.pdf
+- January 27: https://arxiv.org/pdf/1911.09732.pdf
+- February 3: https://arxiv.org/pdf/2001.06927.pdf
+- February 10: http://hamedz.ir/assets/pub/zamani-www2020.pdf
+- February 17: https://arxiv.org/abs/2001.10382
+
 ## 2019
 - January 7: https://arxiv.org/abs/1707.07700
 - January 14: NO READING GROUP
@@ -30,6 +39,12 @@ Overview of IR/NLP papers covered in my team's reading group. Typically, we read
 - SUMMER BREAK
 - October 14: https://dl.acm.org/citation.cfm?id=3344220
 - October 21: discussion of machine learning management systems (mlflow, sacred, neptune, etc.)
+- October 28: https://arxiv.org/abs/1904.05298
+- November 4: https://arxiv.org/pdf/1910.07000.pdf
+- November 11: https://arxiv.org/pdf/1909.04925.pdf
+- November 18: 2 papers from EMNLP 2019 each, slide presentation
+- November 25: https://www.aclweb.org/anthology/N19-1003/
+- December: NO READING GROUP
 
 ## 2018
 - September 3: https://arxiv.org/pdf/1707.07328.pdf
