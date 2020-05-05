@@ -1,6 +1,9 @@
 # Reading group
 
-Overview of IR/NLP papers covered in my team's reading group. Typically, we read and discuss one paper per timeslot (1 hour). At times, we may switch up the format (e.g. a shared presentation about a single topic). All PhD and MSc thesis students are expected to attend.
+Overview of IR/NLP papers covered in my team's reading group. We have a number of formats that we are trying to switch up sometimes:
+- we read one paper and discuss that in detail with one person the oppononent and one person the proponent of the paper
+- we pick a conference and everyone presents one paper from that conference in 1-2 slides
+- one of us gives a detailed presentation about their past research (typically new additions to the team).
 
 We typically stop those meetings over the summer and during the extended Christmas break.
 
