@@ -12,6 +12,19 @@ We typically stop those meetings over the summer and during the extended Christm
 - February 3: https://arxiv.org/pdf/2001.06927.pdf
 - February 10: http://hamedz.ir/assets/pub/zamani-www2020.pdf
 - February 17: https://arxiv.org/abs/2001.10382
+- February 24: NO READING GROUP 
+- March 2: https://arxiv.org/pdf/2002.00747.pdf
+- March 9: NEW TEAM MEMBER CATCHUP
+- March 16: https://kentonl.com/pub/gltpc.2020.pdf
+- March 23: https://arxiv.org/pdf/2002.00571.pdf
+- March 30: https://arxiv.org/abs/1911.12753
+- April 6: CHIIR 2020 [slides](https://docs.google.com/presentation/d/e/2PACX-1vRLdUb66xP4WiYLPotJxBZFS9VvDLiq3b3EcTLtMUzDz6jvCViaxrgh4cfjsij-MkapJM4-gw3yDvDi/pub?start=false&loop=false&delayms=3000) (one paper presented per person)
+- April 13: https://arxiv.org/pdf/1911.10470.pdf
+- April 20: https://www.aclweb.org/anthology/P19-1224.pdf
+- April 27: ECIR 2020 [slides](https://docs.google.com/presentation/d/e/2PACX-1vT9LeaOMxDJXXS0QZ-ELsQMqEjneXOypQocCGt3e2hKvCGUoPRtxPu_tBqU9FaitTI9bThZwCxWAJ56/pub?start=false&loop=false&delayms=3000) (one paper presented per person)
+- May 4: WWW 2020 [slides](https://docs.google.com/presentation/d/e/2PACX-1vR-sVV2TDcNiBMvM_X1OF5UHMv67xS7jX2wJRJa5ZJMirRvUzsTbaawYD54-l0zBuWi80VLJqEl_Rzl/pub?start=false&loop=false&delayms=3000) (one paper presented per person)
+- May 11: NO READING GROUP 
+
 
 ## 2019
 - January 7: https://arxiv.org/abs/1707.07700
